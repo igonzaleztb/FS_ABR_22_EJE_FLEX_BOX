@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Open+Sans:wght@300&family=Raleway:wght@300&family=Roboto:wght@300&display=swap');body{
+
+    background-color: rgb(29, 158, 222);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#padre{
+    border-radius: 2px;
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: 5%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+figure{
+    width: 20%;
+}
+
+.artist-name{
+ 
+ 
+ 
+    padding-left: 10%;
+    width: 80%;
+
+
+}
+
+.container-artist{
+    display: flex;
+ 
+ 
+
+}
+img{
+  
+    border-radius: 50%;
+   padding: 5%;
+}
+
+h2{
+
+
+    color: rgb(165, 165, 165);
+}
+h1{
+ 
+    color:rgb(51, 51, 51)
+}
+ 
+.line{
+    width: 90%;
+    margin-left: 5%;
+    background-color: rgb(222, 222, 222);
+    height: 1px;
+    padding-left: 10xp;
+}
+
+.div-img{
+
+    display: flex;
+
+}
